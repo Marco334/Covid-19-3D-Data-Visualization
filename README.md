@@ -10,7 +10,7 @@ Green : Tested / 1 Milion
 Data source : https://www.worldometers.info/coronavirus/ ( exported in Exel - I am going to impement web scraping service ) 
 
 
-![Screenshot](`75led.jpg)
+![Screenshot](75led.jpg)
 
-![Screenshot](`77led.jpg)
-![Screenshot](`cc.jpg)
+![Screenshot](77led.jpg)
+![Screenshot](cc.jpg)
