@@ -9,3 +9,8 @@ Green : Tested / 1 Milion
 65 most impacted #nations.
 Data source : https://www.worldometers.info/coronavirus/ ( exported in Exel - I am going to impement web scraping service ) 
 
+
+![Screenshot](`75led.jpg)
+
+![Screenshot](`77led.jpg)
+![Screenshot](`cc.jpg)
